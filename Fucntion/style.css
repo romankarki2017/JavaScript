@@ -1,0 +1,26 @@
+#div1 {
+  height: 150px;
+  width: 150px;
+  background-color: green;
+  color: white;
+  text-align: center;
+  line-height: 150px;
+  margin: 50px;
+  position: absolute;
+
+}
+
+#div2 {
+  height: 150px;
+  width: 150px;
+  background-color: purple;
+  color: white;
+  text-align: center;
+  line-height: 150px;
+  position: absolute;
+  left: 100px;
+  top: 100px;
+}
+
+
+
